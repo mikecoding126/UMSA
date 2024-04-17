@@ -1,2 +1,2 @@
 # < UMSA >
-Proyectos iniciales hasta los ultimos
+Proyectos basicos hasta los ultimos
